@@ -13,9 +13,9 @@ Installation
 
 ## To run this project locally, follow these steps:
 
-1.Clone this repository to your local machine.
+1. Clone this repository to your local machine.
   ```bash
-  git clone https://github.com/Dinjan-AIML/image-to-cartoon.git
+   git clone https://github.com/Dinjan-AIML/Image_to_Cartoon.git
   ```
 
 2. Navigate to the project directory.
