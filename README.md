@@ -34,3 +34,11 @@ To run this project locally, follow these steps:
   ```
 
 5. Open your web browser and go to http://localhost:8501 to view the app.
+
+
+Here's the architecture of the app:
+
+<p align="center">
+ <img src="cartoon.png" width="75%" >
+</p>
+
